@@ -15,3 +15,8 @@ Amigo del amigo
 
 Amiracion de las damas
 
+#Seccion 2 Cronicas del aguanieve
+
+Era un dia gris, habia estado nevando toda la noche, tome mi saco y guante.
+Me apresure a salir por la vereda que daba a las espaldas de mi edificio.
+
