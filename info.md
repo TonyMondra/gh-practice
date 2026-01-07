@@ -2,14 +2,13 @@
 
 **Documento de pruebas**
 
-siga el siguiente link para mas info [enlace](https://www.google.com)
+Siga el siguiente link para mas info [enlace](https://www.google.com)
 
 - Primero
 - Segundo
-- tercero
+- Tercero
     - Tercero-segundo
-- cuarto
-- quinto
+- Cuarto
 
 **Opciones**
 
