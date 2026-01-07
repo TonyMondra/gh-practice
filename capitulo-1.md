@@ -2,6 +2,5 @@
 
 ## Monologo en el susbuelo
 
-Eran pasadas las 6 de las tarde, los oficinista y funcionadrios volvian a su casas
-se eccuchaban los pasos a presurados de los oficinitas y funcionarios, agunos rumbo a cass, otros sonrojados por el vapor del las copas de licos de la vispera.
+Eran pasadas las 6 de las tarde, se escuchaban los pasos apresurados de los oficinistas y funcionarios, algunos rumbo a casa, otros sonrojados por el vapor de las copas de licor bararo de la vispera.
 
