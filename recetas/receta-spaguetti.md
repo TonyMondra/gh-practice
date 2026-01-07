@@ -4,7 +4,7 @@
 
 - Pasta
 - Salsa de tomate
-- Laurel
+- 2 ojas de Laurel
 - Queso parmesano
 - 1/2 Cebolla
 - 1 Ajo
