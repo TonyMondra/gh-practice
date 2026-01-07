@@ -4,11 +4,11 @@
 
 - Pasta
 - Salsa de tomate
-- Cebolla
-- Mantequilla sin sal
 - Laurel
 - Queso parmesano
-- Ajo
+- 1/2 Cebolla
+- 1 Ajo
+- 1 barra de Mantequilla
 
 ## Preparacion
 
@@ -23,8 +23,6 @@
 9. Servir
 10. Espolvorear queso al gusto
 11. Decorar con dos ojas de laurel
-
-
 
 
 
