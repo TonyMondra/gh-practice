@@ -5,16 +5,27 @@
 - Pasta
 - Salsa de tomate
 - Cebolla
-- Mantequilla
+- Mantequilla sin sal
+- Laurel
+- Queso parmesano
+- Ajo
 
 ## Preparacion
 
 1. Cocer la pasta durante 10 minutos en agua hirviendo
 2. Derretir la mantequilla en el sarten
-3. Dorar el ajo y la cebolla a fuego lento
-4. Calentar la salsa hasta el hervor
-5. Agregar cebolla y ajo a la salsa
-6. Agregar la pasta
-7. Servir  
+3. Dorar la cebolla y ajo a fuego lento en la mantequilla
+4. Vertir la salsa de tomate
+5. Agregar pasta a la mescla
+6. Mesclar a fuego lento durante 4 minutos 
+7. Apartar del fuego
+8. Dejar enfriar durante 15 minutos
+9. Servir
+10. Espolvorear queso al gusto
+11. Decorar con dos ojas de laurel
+
+
+
+
 
 
