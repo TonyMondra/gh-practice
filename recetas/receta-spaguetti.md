@@ -7,7 +7,7 @@
 - 2 ojas de Laurel
 - Queso parmesano
 - 1/2 Cebolla
-- 1 Ajo
+-  Ajo
 - 1 barra de Mantequilla
 
 ## Preparacion
